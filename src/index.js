@@ -19,15 +19,18 @@ client.on('ready', () => {
 });
 
 
+/// Discord will be deprecating this for bots on over 75 servers starting April 2022. In order to pre-empt this,
+/// I am going to try to remove any/all of the commands here, and convert them to interactions.
 client.on('messageCreate', msg => {
     let prefix = '$';
     if (msg.author.bot) return;
 
-    if (!msg.content.startsWith(config.prefix)) return;
-
-    if (msg.content.startsWith(`${prefix}ping`)) {
-        msg.reply('Pong!');
+    // Joke command. Only allowed on certain servers.
+    if(msg.content === 'pls respond') {
+        msg.reply('pls respond');
     }
+
+    if (!msg.content.startsWith(config.prefix)) return;
 });
 
 client.on('interactionCreate', async interaction => {
