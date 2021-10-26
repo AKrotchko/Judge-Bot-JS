@@ -23,8 +23,8 @@ const rest = new REST({ version: '9' }).setToken(token);
 
 /// Global commands (May take up to an hour to register, use when ready)
 // rest.put(Routes.applicationCommands(clientId), { body: commands })
-// .then(() => console.log('Successfully registered application commands.'))
-// .catch(console.error);
+    // .then(() => console.log('Successfully registered application commands.'))
+    // .catch(console.error);
 
 /// Guild commands (Instant, use for development)
 rest.put(Routes.applicationGuildCommands(clientId, guildId), { body: commands })
