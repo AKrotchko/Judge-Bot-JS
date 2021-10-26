@@ -18,7 +18,6 @@ module.exports = {
         const vcEmbed = getVCEmbed('A New Journey', 'https://exvius.gamepedia.com/A_New_Journey', 'https://i.imgur.com/L4Tr6rM.gif', 'https://i.imgur.com/QKwghEX.png', 'Obtainable from a limited-time bundle');
 
         await interaction.reply({embeds: [vcEmbed]});
-        // await interaction.
     },
 };
 

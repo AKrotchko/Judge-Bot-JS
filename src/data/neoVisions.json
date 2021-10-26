@@ -1,0 +1,491 @@
+{
+    "Units": [
+        {
+            "Aliases": [
+                "Aerith (FFVII REMAKE)",
+                "Aerith",
+                "Aeris",
+                "Pin Cushion",
+                "Aerith FF7R",
+                "Aerith Remake"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Aerith_(FFVII_REMAKE)",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/c/c6/Unit_ills_207002207.png/revision/latest/scale-to-width-down/260?cb=20200521031511",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) A Prayer to Change the Future",
+            "TMRDescription": "Increase MAG (40%) and SPR (20%)\nIncrease fire, ice, lightning and light resistance (15%)",
+            "STMRName": "(Clothes) Aerith's Clothes",
+            "STMRDescription": "DEF+28, MAG+80, SPR+70\nIncrease equipment MAG (50%) and accuracy (25%) when single wielding any weapon"
+        },
+        {
+            "Aliases": [
+                "Aileen"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Aileen",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/f/f0/Unit-Aileen-NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Spear) Artisan",
+            "TMRDescription": "ATK+135\nElement: Earth",
+            "STMRName": "(Hat) Scanning Goggles",
+            "STMRDescription": "ATK+52\nIncrease physical damage against plants (50%)\nIncrease physical damage against stones (50%)\nIncrease physical damage against insects (50%)\nIncrease physical damage against machinas (50%)"
+        },
+        {
+            "Aliases": [
+                "Awakened Dragon Akstar",
+                "Akstar",
+                "Kekstar"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Awakened_Dragon_Akstar",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/b/b7/Unit_ills_100031507.png/revision/latest/scale-to-width-down/260?cb=20200530173408",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Awakened Dragon",
+            "TMRDescription": "Increase ATK (60%)\nIncrease physical damage against humans and dragons (25/25%)",
+            "STMRName": "(Katana) Novis Ember",
+            "STMRDescription": "ATK+182\nIncrease equipment ATK (50%) and accuracy (25%) when single wielding any weapon\nIncrease equipment ATK (50%) when dual wielding"
+        },
+        {
+            "Aliases": [
+                "Balthier"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Balthier",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/d/df/Unit-Balthier-NV.png/revision/latest/scale-to-width-down/84?cb=20200929090342",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Gun) Arcturus",
+            "TMRDescription": "ATK+135",
+            "STMRName": "(Materia) Zodiac Shot",
+            "STMRDescription": "Increase ATK (80%) when equipped with a gun\nIncrease physical damage against machinas (50%)"
+        },
+        {
+            "Aliases": [
+                "Blossom Sage Sakura",
+                "BSS"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Blossom_Sage_Sakura",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/b/be/Unit-Blossom_Sage_Sakura-NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Sage of Mysidia",
+            "TMRDescription": "Increase MP (20%) and MAG (40%)\nIncrease LB gauge (2) per turn",
+            "STMRName": "(Robe) Sakura's Robe",
+            "STMRDescription": "DEF+14, MAG+77, SPR+42\nResistance: Lightning (+50%)\nIncrease LB gauge (1) per turn"
+        },
+        {
+            "Aliases": [
+                "Cloud",
+                "NVA Cloud"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Cloud",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/e/eb/Unit-Cloud-NV.png/revision/latest/scale-to-width-down/120?cb=20200901104549",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Buster Style",
+            "TMRDescription": "Increase equipment ATK (100%) and accuracy (25%) when single wielding any weapon",
+            "STMRName": "Ultima Weapon",
+            "STMRDescription": "ATK+180\nEffect: Damage range 100% - 160%, Accuracy+50%\nTwo-handed weapon"
+        },
+        {
+            "Aliases": [
+                "Cloud (FFVII REMAKE)",
+                "Cloud Remake",
+                "Cloud FF7R",
+                "Remake Cloud",
+                "NV Cloud"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Cloud_(FFVII_REMAKE)",
+            "spriteURL": "https://gamepedia.cursecdn.com/exvius_gamepedia_en/6/67/Unit_ills_207002007.png?version=eb891af54cdd33fb1967d72ce62969c6",
+            "shiftSpriteURL": "https://gamepedia.cursecdn.com/exvius_gamepedia_en/3/32/Unit_ills_207002017.png?version=31a73040ed8dac108b93e129083d6fbc",
+            "shiftAnimationURL": "",
+            "TMRName": "(Great Sword) Buster Sword (FFVII REMAKE)",
+            "TMRDescription": "ATK+158\nTwo-handed weapon, Accuracy+50%, 1-1.6x Variance",
+            "STMRName": "(Materia) Destiny Conqueror",
+            "STMRDescription": "Increase equipment ATK (200%) and accuracy (25%) when single wielding any weapon"
+        },
+        {
+            "Aliases": [
+                "Dark Fina",
+                "DFina"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Dark_Fina",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/f/f3/Unit-Dark_Fina-NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Dark Bond",
+            "TMRDescription": "Increase MAG (30%) when equipped with a rod\nIncrease MAG (20%) when equipped with a robe",
+            "STMRName": "(Robe) Amiculum Nigra",
+            "STMRDescription": " DEF+30, MAG+72, SPR+72, MP +30%\nResistance: Sleep (Null), Paralyze (Null)\nRecover MP (5%) per turn\nFemales Only"
+        },
+        {
+            "Aliases": [
+                "Dark Knight Leon",
+                "Leon"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Dark_Knight_Leon",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/f/f9/Unit-Dark_Knight_Leon-NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Sword) Defender",
+            "TMRDescription": "ATK+135\nIncrease DEF (20%)\nIncrease physical evasion (10%)",
+            "STMRName": "(Materia) Dark Knight's Authority",
+            "STMRDescription": "Increase ATK (50%) when equipped with a sword\nIncrease ATK (50%) when equipped with a heavy armor"
+        },
+        {
+            "Aliases": [
+                "Emperor"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Emperor",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/f/f9/Unit-Emperor-NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Rod) Mateus's Malice",
+            "TMRDescription": "ATK+19, MAG+129, HP +10%",
+            "STMRName": "(Materia) Corrupt Emperor",
+            "STMRDescription": "Increase MAG (60%) and HP (10%)\nIncrease fire resistance (50%)"
+        },
+        {
+            "Aliases": [
+                "Firion -Neo Vision-",
+                "Firion"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Firion_-Neo_Vision-",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/4/48/Unit_ills_202001907.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Thorns of the Rose",
+            "TMRDescription": "Increase ATK (60%) when equipped with a bow\nIncrease ATK (30%) when equipped with a sword\nIncrease ATK (30%) when equipped with an axe\nIncrease ATK (30%) when equipped with a spear",
+            "STMRName": "(Bow) Firion's Bow",
+            "STMRDescription": "ATK+180\nTwo-handed weapon, Accuracy+70%, 1.25-1.75x Variance\nIncrease LB damage (50%)\nIncrease physical damage against avians (50%)\nIncrease equipment ATK (100%) and accuracy (25%) when single wielding any weapon"
+        },
+        {
+            "Aliases": [
+                "Gabranth -Neo Vision-",
+                "Gabranth"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Gabranth_-Neo_Vision-",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/4/46/Unit_ills_212002207.png/revision/latest/scale-to-width-down/260?cb=20200619040229",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Errant Hound",
+            "TMRDescription": "Increase HP (30%)\nIncrease equipment DEF (50%) when dual wielding",
+            "STMRName": "(Heavy Armor) Gabranth's Armor",
+            "STMRDescription": "HP+500, ATK+15, DEF+115, SPR+65\nHP+30%"
+        },
+        {
+            "Aliases": [
+                "Grim Lord Sakura",
+                "GLS"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Grim_Lord_Sakura",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/1/1a/Unit-Grim_Lord_Sakura-NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Spear) Reaver",
+            "TMRDescription": "HP+666, MP+66, ATK+33, MAG+130, SPR+36, MAG +30%\nElement: Fire, Dark\nIncrease LB gauge (3) per turn (Grim Lord Sakura only)\nDamage range 100% - 160%, Accuracy+50%, Two-handed weapon",
+            "STMRName": "(Materia) Grim Brilliance",
+            "STMRDescription": "Increase HP/MP (20%)\nIncrease equipment MAG/SPR (50%) when single wielding any weapon"
+        },
+        {
+            "Aliases": [
+                "Ibara"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Ibara",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/3/3d/Unit-Ibara-NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Mystical Aura",
+            "TMRDescription": "Increase MAG (60%)\nRestore MP (5%) every turn",
+            "STMRName": "(Throwing Weapon) Demonic Scroll",
+            "STMRDescription": "MAG+180\nIncrease equipment MAG (50%) when armed with two one-handed weapons"
+        },
+        {
+            "Aliases": [
+                "Kairi (KHIII)",
+                "Kairi"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Kairi_(KHIII)",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/a/a6/Unit-Kairi_%28KHIII%29-NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Clothes) Kairi's Dress",
+            "TMRDescription": " ATK+33, DEF+22, SPR+40\nIncrease ATK/SPR (50%)\n(Females only)",
+            "STMRName": "(Materia) Guardian of Light (Kairi)\n",
+            "STMRDescription": "Increase ATK/SPR (70%)\nRecover MP (7%) per turn\nIncrease LB gauge (7) per turn\nIncrease dark resistance (70%)"
+        },
+        {
+            "Aliases": [
+                "Loren",
+                "Lorraine"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Loren",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/9/9d/Unit-Loren-NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Awesome Swordsman",
+            "TMRDescription": "Enable dual wielding of one-handed weapons\nIncrease ATK (15%) when equipped with katana, sword, great sword, and dagger",
+            "STMRName": "(Great Sword) Chrome Sphene",
+            "STMRDescription": "ATK+170, DEF+20, SPR+20"
+        },
+        {
+            "Aliases": [
+                "Lucius"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Lucius",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/8/8f/Unit-Lucius-NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Chaotic Ferocity",
+            "TMRDescription": "Increase ATK (30%) when equipped with a fist\nIncrease ATK (30%) when equipped with clothes",
+            "STMRName": "(Hat) Glorious Headpiece",
+            "STMRDescription": "ATK+52\nIncrease LB gauge (3) per turn\nIncrease ATK (30%) when equipped with a fist"
+        },
+        {
+            "Aliases": [
+                "Madam Edel -Neo Vision-",
+                "Madam",
+                "Edel"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Madam_Edel_-Neo_Vision-",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/1/1e/Unit_ills_100031907.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Shining Arts Fundamentals",
+            "TMRDescription": "Increase LB damage (50%)\nIncrease equipment ATK (50%) when dual wielding",
+            "STMRName": "(Fist) Scarlet Glove",
+            "STMRDescription": "ATK+188\nIncrease LB damage (50%)\nAuto-cast At the start of a battle or after being revived:\nIncrease ATK (250%) for 3 turns to caster"
+        },
+        {
+            "Aliases": [
+                "Nalu"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Nalu",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/d/d1/Unit_ills_100015417.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Swift Hunter",
+            "TMRDescription": "Increase ATK (25%)\nIncrease equipment ATK (50%) and accuracy (25%) when single wielding any weapon",
+            "STMRName": "(Spear) Vajrayna",
+            "STMRDescription": "ATK+175\nTwo-handed weapon, Accuracy+50%, 1.0-1.5x Variance\nElement Inflict: Lightning"
+        },
+        {
+            "Aliases": [
+                "Onion Knight -Neo Vision-",
+                "Onion Knight",
+                "Onion"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Onion_Knight_-Neo_Vision-",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/2/28/Unit-Onion_Knight_-Neo_Vision--NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Chosen by the Wind Crystal",
+            "TMRDescription": "Increase physical and magic damage against undeads (30%)\nIncrease equipment ATK (50%) when dual wielding",
+            "STMRName": "(Spear) Onion Sword+",
+            "STMRDescription": "ATK+188, DEF+22, SPR+22\nIncrease fire, water, wind, and earth resistance (30%)"
+        },
+        {
+            "Aliases": [
+                "Physalis -Neo Vision-",
+                "Physalis"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Physalis_-Neo_Vision-",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/4/4a/Unit-Physalis_-Neo_Vision--NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Talented New Gunner",
+            "TMRDescription": "Increase ATK/MAG (30%)\nIncrease ATK/MAG (30%) when equipped with a gun",
+            "STMRName": "(Accessory) Peacefinders",
+            "STMRDescription": "ATK+45, MAG+65\nIncrease magic damage against fairies (50%)"
+        },
+        {
+            "Aliases": [
+                "Pyro Glacial Lasswell",
+                "Lasswell",
+                "Lassworm"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Pyro_Glacial_Lasswell",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/5/5b/Unit_ills_100011717.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Azure Crimson Soul",
+            "TMRDescription": "Increase ATK and HP (30%)\nIncrease LB gauge fill rate (25%)",
+            "STMRName": "(Katana) Zantetsuken",
+            "STMRDescription": "ATK+174\nIncrease LB gauge fill rate (50%)\nIncrease esper's bonus stats (10%)"
+        },
+        {
+            "Aliases": [
+                "Rain -Neo Vision-",
+                "Rain"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Rain_-Neo_Vision-",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/b/b1/Unit_ills_100031007.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) A New Power",
+            "TMRDescription": "Increase LB damage (30%)\nIncrease equipment ATK (75%) and accuracy (25%) when single wielding any weapon",
+            "STMRName": "(Great Sword) Obliterating Crimson Saber",
+            "STMRDescription": "ATK+184\nActivate power of the sun: Boost fire damage of LB, abilities, and magic by 10%"
+        },
+        {
+            "Aliases": [
+                "Red XIII",
+                "Red 13",
+                "Dogman"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Red_XIII",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/6/6d/Unit-Red_XIII-NV.png/revision/latest/scale-to-width-down/118?cb=20200901104551",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Accessory) Seraph Comb",
+            "TMRDescription": "ATK+50\nIncrease MP (20%) and ATK (10%)",
+            "STMRName": "(Accessory) Limited Moon",
+            "STMRDescription": "ATK+60, MP +30%\nIncrease LB gauge fill rate (100%)"
+        },
+        {
+            "Aliases": [
+                "Riku (KHIII)",
+                "Riku"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Riku_(KHIII)",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/a/ac/Unit-Riku_%28KHIII%29-NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Accessory) Riku's Glove",
+            "TMRDescription": "ATK+50\nIncrease LB damage (30%)",
+            "STMRName": "(Materia) Guardian of Light (Riku)",
+            "STMRDescription": "Increase ATK (80%)\nIncrease equipment ATK (100%) and accuracy (25%) when single wielding any weapon\nIncrease equipment ATK (100%) when dual wielding"
+        },
+        {
+            "Aliases": [
+                "Shoreline Fina & Daisy",
+                "Faisy",
+                "Dina"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Shoreline_Fina_&_Daisy",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/1/10/Unit_ills_100031707.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Beach Party!",
+            "TMRDescription": "Increase SPR and HP (40%) and MP (30%)\nIncrease water resistance (40%)",
+            "STMRName": "(Hat) Midsummer Boater",
+            "STMRDescription": "DEF+18, SPR+102\nBoost water resistance by 50%\nIncrease HP (30%)\nChance to ignore fatal damage (100%) when HP is above 5% (max 1 time)"
+        },
+        {
+            "Aliases": [
+                "Sol -Neo Vision-",
+                "Sol"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Sol_-Neo_Vision-",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/2/2e/Unit-Sol_-Neo_Vision--NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Evil Vanguard",
+            "TMRDescription": "Increase MP (30%)\nIncrease equipment MAG (100%) and accuracy (25%) when single wielding any weapon",
+            "STMRName": "(Rod) Astral Rod",
+            "STMRDescription": "MAG+184\nRecover MP (5%) per turn\nAuto-cast Rod of Souls at the start of a battle"
+        },
+        {
+            "Aliases": [
+                "Sora (KHIII)",
+                "Sora"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Sora_(KHIII)",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/8/81/Unit-Sora_%28KHIII%29-NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Sword) Oathkeeper",
+            "TMRDescription": "ATK+170, MAG+62\nIncrease equipment ATK (50%) and accuracy (25%) when single wielding any weapon\nIncrease equipment ATK (50%) when dual wielding",
+            "STMRName": "(Materia) Guardian of Light (Sora)",
+            "STMRDescription": "Increase ATK (80%)\nIncrease LB damage (75%)"
+        },
+        {
+            "Aliases": [
+                "Starlight Elena",
+                "Elena"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Starlight_Elena",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/e/e0/Unit-Starlight_Elena-NV.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Sword) Astraea Aurora",
+            "TMRDescription": "ATK+140 MAG+120\nBoost equipment ATK and MAG (50%) when armed with two one-handed weapons (Elena and Starlight Elena only)",
+            "STMRName": "(Materia) Azure Radiance",
+            "STMRDescription": "Boost equipment ATK and MAG (150%) when a single weapon is equipped in both hands"
+        },
+        {
+            "Aliases": [
+                "Summer Fina & Lid",
+                "Fid"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Summer_Fina_&_Lid",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/0/00/Unit_ills_100020517.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Accessory) Mog Beach Ball",
+            "TMRDescription": "MP+50, DEF+3, SPR+3\nIncrease MP (30%)\nIncrease SPR (30%)",
+            "STMRName": "(Materia) Beach Girls",
+            "STMRDescription": "Increase DEF and SPR (50%)\nIncrease lightning, water and light resistance (60%)"
+        },
+        {
+            "Aliases": [
+                "Summer Folka & Citra",
+                "Cilka",
+                "Fitra"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Summer_Folka_&_Citra",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/a/ab/Unit_ills_100020917.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Staff) Summer Parasol",
+            "TMRDescription": "ATK+15, MAG+58, SPR+120\nIncrease SPR (20%)\nAuto-cast Passion Heart every turn",
+            "STMRName": "(Materia) Cool Beauty",
+            "STMRDescription": "Increase HP and MP (50%)\nIncrease ice, water and dark resistance (60%)"
+        },
+        {
+            "Aliases": [
+                "Tifa",
+                "Teefa"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Tifa",
+            "spriteURL": "https://gamepedia.cursecdn.com/exvius_gamepedia_en/6/6a/Unit_ills_207000317.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Soaring Heart",
+            "TMRDescription": "Increase ATK (30%) when equipped with a fist\nIncrease ATK (30%) when equipped with a hat",
+            "STMRName": "(Fist) Premium Heart (FFVII)",
+            "STMRDescription": "ATK+170\nIncrease LB gauge (3) per turn"
+        },
+        {
+            "Aliases": [
+                "Veritas of the Dark",
+                "VotD",
+                "DV"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Veritas_of_the_Dark",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/5/5c/Unit_ills_100007717.png",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Materia) Sworn Six's Pride - Dark",
+            "TMRDescription": "Increase ATK (30%) when equipped with a great sword\nIncrease ATK (30%) when equipped with heavy armor",
+            "STMRName": "(Heavy Armor) Darklord's Armor",
+            "STMRDescription": "ATK+34, DEF+34, SPR+24\nResistance: Dark (+80%)"
+        },
+        {
+            "Aliases": [
+                "Yoshikiri",
+                "Yoshi",
+                "Yoshimitsu",
+                "Auron"
+            ],
+            "wikiURL": "https://exvius.gamepedia.com/Yoshikiri",
+            "spriteURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/6/64/Unit-Yoshikiri-NV.png/revision/latest/scale-to-width-down/100?cb=20200917140658",
+            "shiftSpriteURL": "",
+            "shiftAnimationURL": "",
+            "TMRName": "(Throwing Weapon) Seilan Shuriken",
+            "TMRDescription": "ATK+40, SPR+120\nSPR+40%",
+            "STMRName": "(Materia) Spirit of the Shinobi",
+            "STMRDescription": "Boost SPR by 80% and increase equipment SPR (25%) when a single weapon is equipped in both hands"
+        }
+    ]
+}

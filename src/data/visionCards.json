@@ -1,0 +1,1134 @@
+{
+    "Vision Cards": [
+        {
+            "Aliases": [
+                "Planet's Whisper",
+                "Aerith",
+                "Aeris",
+                "Bad Aerith",
+                "Trash Aerith"
+            ],
+            "Acquisition": "Aerith",
+            "CardURL": "https://exvius.gamepedia.com/Planet%27s_Whisper",
+            "ArtURL": "https://i.imgur.com/l69ktA5.png",
+            "AnimationURL": "https://i.imgur.com/jmXDqZK.gif",
+            "Level1Stats": "+40 MAG/SPR",
+            "Level10Stats": "+65 MAG/SPR",
+            "Level4Abilities": "+25% MAG/SPR w/ Rod",
+            "Level7Abilities": "+25% MAG/SPR w/ Rod",
+            "Level10Abilities": "+20% MAG/SPR (Condition: FF7 Only)",
+            "Note": "Obtainable from NV Aerith's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Knights who Soar the Skies",
+                "Airship"
+            ],
+            "Acquisition": "Pool",
+            "CardURL": "https://exvius.gamepedia.com/Knights_who_Soar_the_Skies",
+            "ArtURL": "https://i.imgur.com/4sVk2Yj.png",
+            "AnimationURL": "https://i.imgur.com/l7xG7Pd.gif",
+            "Level1Stats": "+35 ATK/DEF",
+            "Level10Stats": "+50 ATK/DEF",
+            "Level4Abilities": "+30% Wind Resist",
+            "Level7Abilities": "+20% ATK/DEF",
+            "Level10Abilities": "",
+            "Note": "Obtainable from the Summon Pool."
+        },
+        {
+            "Aliases": [
+                "Guiding the Youth",
+                "Akstar",
+                "Kekstar"
+            ],
+            "Acquisition": "Akstar",
+            "CardURL": "https://exvius.gamepedia.com/Guiding_the_Youth",
+            "ArtURL": "https://i.imgur.com/Htww6Hg.png",
+            "AnimationURL": "https://i.imgur.com/VHht9fV.gif",
+            "Level1Stats": "+40 ATK",
+            "Level10Stats": "+100 ATK",
+            "Level4Abilities": "+50% ATK w/ Katana",
+            "Level7Abilities": "+50% ATK w/ Katana",
+            "Level10Abilities": "+20% ATK (FFBE Only)",
+            "Note": "Obtainable from NV Akstar's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Metal Gigantuar's Here!",
+                "Cactuar",
+                "Cact"
+            ],
+            "Acquisition": "Fodder",
+            "CardURL": "https://exvius.gamepedia.com/Metal_Gigantuar's_Here!",
+            "ArtURL": "https://i.imgur.com/bawzdEE.png",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/a/ad/VC_Animation-Metal_Gigantuar%27s_Here%21.gif/revision/latest?cb=20200824125502",
+            "Level1Stats": "+10 HP\n+10 MP",
+            "Level10Stats": "",
+            "Level4Abilities": "",
+            "Level7Abilities": "",
+            "Level10Abilities": "",
+            "Note": "Fodder / 100 EXP to VC on fuse.\n+10 HP / MP\nObtainable from limited sources (Missions/Arena/Bundles/EX Awakening)."
+        },
+        {
+            "Aliases": [
+                "4th Anniversary Celebration",
+                "Cake"
+            ],
+            "Acquisition": "Event",
+            "CardURL": "https://exvius.gamepedia.com/4th_Anniversary_Celebration",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/7/78/VC_Art-4th_Anniversary_Celebration.png/revision/latest/scale-to-width-down/192?cb=20200924112236",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/5/50/VC_Animation-4th_Anniversary_Celebration.gif",
+            "Level1Stats": "",
+            "Level10Stats": "+100 HP +50 MP",
+            "Level4Abilities": "Increase ATK and MAG (10%)",
+            "Level7Abilities": "Increase DEF and SPR (10%)\nBoost quest EXP (30%)",
+            "Level10Abilities": "Boost ATK/DEF/MAG/SPR (30%)",
+            "Note": "Obtained during the FFBE 4th Anniversary Event.\nObtained at level 10"
+        },
+        {
+            "Aliases": [
+                "ビューティフルバケーション",
+                "Cilka"
+            ],
+            "Acquisition": "Arena",
+            "CardURL": "",
+            "ArtURL": "https://i.imgur.com/W7yIzyO.png",
+            "AnimationURL": "https://i.imgur.com/w6mr1Ha.gif",
+            "Level1Stats": "+10% Ice/Dark Resist",
+            "Level10Stats": "+10% Ice/Dark Resist",
+            "Level4Abilities": "+10% Ice/Dark Resist",
+            "Level7Abilities": "+10% Ice/Dark Resist",
+            "Level10Abilities": "+20% Ice/Dark Resist & +50% Esper Reflected Stats (Cond: )",
+            "Note": "Obtainable from the Arena's monthly event."
+        },
+        {
+            "Aliases": [
+                "A New Journey",
+                "Chocobo"
+            ],
+            "Acquisition": "Bundle",
+            "CardURL": "https://exvius.gamepedia.com/A_New_Journey",
+            "ArtURL": "https://i.imgur.com/QKwghEX.png",
+            "AnimationURL": "https://i.imgur.com/L4Tr6rM.gif",
+            "Level1Stats": "+50 SPR",
+            "Level10Stats": "+80 SPR",
+            "Level4Abilities": "+10% Fire, Ice, Light Resist",
+            "Level7Abilities": "+10% Fire, Ice, Light Resist",
+            "Level10Abilities": "+20% Fire, Ice, Light Resist\nGuts: 100% Chance >30% HP (Max: 1)",
+            "Note": "Obtainable from a limited-time bundle"
+        },
+        {
+            "Aliases": [
+                "Mad Dash",
+                "Cloud",
+                "Clod",
+                "Clud",
+                "Cludd"
+            ],
+            "Acquisition": "Cloud",
+            "CardURL": "https://exvius.gamepedia.com/Mad_Dash",
+            "ArtURL": "https://i.imgur.com/F1cQnsT.png",
+            "AnimationURL": "https://i.imgur.com/yETiQRh.gif",
+            "Level1Stats": "+40 ATK",
+            "Level10Stats": "+100 ATK",
+            "Level4Abilities": "+50% ATK w/ Greatsword",
+            "Level7Abilities": "+50% ATK w/ Greatsword",
+            "Level10Abilities": "+30% ATK (Condition: FF7 Units)",
+            "Note": "Obtainable from NV Cloud's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Madam and the Giant Bird, Bennu",
+                "Edel",
+                "Madam Edel -Neo Vision-",
+                "Madam Edel",
+                "Madam"
+            ],
+            "Acquisition": "Edel",
+            "CardURL": "https://exvius.gamepedia.com/Madam_and_the_Giant_Bird,_Bennu",
+            "ArtURL": "https://i.imgur.com/6sHp3Zm.png",
+            "AnimationURL": "https://i.imgur.com/LxvNG8Z.gif",
+            "Level1Stats": "+40 ATK",
+            "Level10Stats": "+100 ATK",
+            "Level4Abilities": "+50% ATK w/ Fist",
+            "Level7Abilities": "+50% ATK w/ Fist",
+            "Level10Abilities": "+30% ATK (Cond: FFBE)",
+            "Note": "Obtainable NV Edel's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Azure Successor",
+                "Elena"
+            ],
+            "Acquisition": "Elena",
+            "CardURL": "https://exvius.gamepedia.com/Azure_Successor",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/f/f4/VC_Art-Azure_Successor.png/revision/latest/scale-to-width-down/192?cb=20200924104444",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/7/74/VC_Animation-Azure_Successor.gif",
+            "Level1Stats": "+35 ATK/MAG",
+            "Level10Stats": "+60 ATK/MAG",
+            "Level4Abilities": "+20% ATK/MAG",
+            "Level7Abilities": "+30% ATK/MAG",
+            "Level10Abilities": "+50% LB Damage (Cond: Female)",
+            "Note": "Obtainable from the NV Elena's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Too Cool for the Summer",
+                "Shoreline Fina & Daisy",
+                "Faisy"
+            ],
+            "Acquisition": "Faisy",
+            "CardURL": "https://exvius.gamepedia.com/Too_Cool_for_the_Summer",
+            "ArtURL": "https://i.imgur.com/Ws8PXPW.png",
+            "AnimationURL": "https://i.imgur.com/XLkAyDL.gif",
+            "Level1Stats": "+400 HP, +40 SPR",
+            "Level10Stats": "+800 HP, +80 SPR",
+            "Level4Abilities": "+20% SPR w/ Heavy Armor",
+            "Level7Abilities": "+20% SPR w/ Heavy Armor",
+            "Level10Abilities": "+20% SPR (Female Only)",
+            "Note": "Obtainable from NV Shoreline Fina & Daisy's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Battle with the Black Knights",
+                "Firion"
+            ],
+            "Acquisition": "Firion",
+            "CardURL": "https://exvius.gamepedia.com/Battle_with_the_Black_Knights",
+            "ArtURL": "https://i.imgur.com/g901fDH.png",
+            "AnimationURL": "https://i.imgur.com/CV0TG0S.gif",
+            "Level1Stats": "+50 ATK",
+            "Level10Stats": "+90 ATK",
+            "Level4Abilities": "+40% ATK w/ Bow, +20% ATK w/ Sword, Axe and Spear",
+            "Level7Abilities": "+40% ATK w/ Bow, +20% ATK w/ Sword, Axe and Spear",
+            "Level10Abilities": "100% Chance >5% HP Guts (Max:1) (Cond: FF2)",
+            "Note": "Obtainable from NV Firion's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Judge Magister",
+                "Gabranth"
+            ],
+            "Acquisition": "Gabranth",
+            "CardURL": "https://exvius.gamepedia.com/Judge_Magister_(Vision_Card)",
+            "ArtURL": "https://i.imgur.com/47Gc1dj.png",
+            "AnimationURL": "https://i.imgur.com/6sXIl70.gif",
+            "Level1Stats": "+400 HP, +40 DEF",
+            "Level10Stats": "+800 HP, +80 DEF",
+            "Level4Abilities": "+10% DEF w/ Helm, +10% DEF w/ Heavy Armor",
+            "Level7Abilities": "+10% DEF w/ Helm, +10% DEF w/ Heavy Armor",
+            "Level10Abilities": "+20% DEF (Cond: FF12)",
+            "Note": "Obtainable from NV Gabranth's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Demon Who Learned Humanity",
+                "Ibara"
+            ],
+            "Acquisition": "Limited/Ibara",
+            "CardURL": "https://exvius.gamepedia.com/Demon_Who_Learned_Humanity",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/5/51/VC_Art-Demon_Who_Learned_Humanity.png",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/6/65/VC_Animation-Demon_Who_Learned_Humanity.gif",
+            "Level1Stats": "+35 MAG",
+            "Level10Stats": "+110 MAG",
+            "Level4Abilities": "Boost equipment MAG (10%) when a single weapon is equipped in both hands",
+            "Level7Abilities": "Boost equipment MAG (40%) when a single weapon is equipped in both hands",
+            "Level10Abilities": "+50% MAG (Condition: Female)",
+            "Note": "Obtainable from Ibara's EX+1, and EX+3."
+        },
+        {
+            "Aliases": [
+                "The Paopu Fruit's Bond",
+                "Kairi"
+            ],
+            "Acquisition": "Limited/Kairi",
+            "CardURL": "https://exvius.gamepedia.com/The_Paopu_Fruit%27s_Bond",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/2/21/VC_Art-The_Paopu_Fruit%27s_Bond.png",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/4/49/VC_Animation-The_Paopu_Fruit%27s_Bond.gif",
+            "Level1Stats": "+36 ATK +44 SPR",
+            "Level10Stats": "+72 ATK +88 SPR",
+            "Level4Abilities": "Increase ATK and SPR (20%)",
+            "Level7Abilities": "Increase ATK and SPR (20%)",
+            "Level10Abilities": "(Condition: KHIII) Increase ATK and SPR (30%)\nIncrease light resistance (50%)",
+            "Note": "Obtainable from NV Kairi's EX+1, and EX+3."
+        },
+        {
+            "Aliases": [
+                "The Water God and Priestess",
+                "Luka"
+            ],
+            "Acquisition": "Pool",
+            "CardURL": "https://exvius.gamepedia.com/The_Water_God_and_Priestess",
+            "ArtURL": "https://i.imgur.com/56gN31H.png",
+            "AnimationURL": "https://i.imgur.com/SR2dsqH.gif",
+            "Level1Stats": "+20 SPR",
+            "Level10Stats": "+40 SPR",
+            "Level4Abilities": "+30% Stats from Leviathan",
+            "Level7Abilities": "",
+            "Level10Abilities": "+30% SPR",
+            "Note": "Obtainable from the Summon Pool."
+        },
+        {
+            "Aliases": [
+                "Wake-Up Coeurl",
+                "Couerl"
+            ],
+            "Acquisition": "Bundle",
+            "CardURL": "https://exvius.gamepedia.com/Wake-Up_Coeurl",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/a/a1/VC_Art-Wake-Up_Coeurl.png",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/8/87/VC_Animation-Wake-Up_Coeurl.gif",
+            "Level1Stats": "+50 ATK",
+            "Level10Stats": "+80 ATK",
+            "Level4Abilities": "+20% ATK w/ Spear",
+            "Level7Abilities": "+20% ATK w/ Spear",
+            "Level10Abilities": "+20% ATK, +25% Phys Dmg vs Beasts (Female Only)",
+            "Note": "Obtained from a limited-time bundle"
+        },
+        {
+            "Aliases": [
+                "Crystal's Revelation",
+                "Onion",
+                "Onion Knight"
+            ],
+            "Acquisition": "Onion",
+            "CardURL": "https://exvius.gamepedia.com/Crystal%27s_Revelation",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/0/05/VC_Art-Crystal%27s_Revelation.png",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/4/41/VC_Animation-Crystal%27s_Revelation.gif",
+            "Level1Stats": "+40 ATK",
+            "Level10Stats": "+80 ATK",
+            "Level4Abilities": "Increase fire, water, wind, and earth resistance (10%)\nIncrease ATK (15%) when equipped with a sword\nIncrease ATK (15%) when equipped with a katana",
+            "Level7Abilities": "Increase fire, water, wind, and earth resistance (10%)\nIncrease ATK (15%) when equipped with a sword\nIncrease ATK (15%) when equipped with a katana",
+            "Level10Abilities": "(Condition: FFIII)\nIncrease ATK/DEF/MAG/SPR (20%)\nIncrease fire, water, wind, and earth resistance (10%)",
+            "Note": "Obtainable from NV Onion Knight's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "A Day in the Life of Physalis",
+                "Physalis"
+            ],
+            "Acquisition": "Physalis",
+            "CardURL": "https://exvius.gamepedia.com/A_Day_in_the_Life_of_Physalis",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/b/b8/VC_Art-A_Day_in_the_Life_of_Physalis.png",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/d/d6/VC_Animation-A_Day_in_the_Life_of_Physalis.gif",
+            "Level1Stats": "+40 ATK +40 MAG",
+            "Level10Stats": "+65 ATK +65 MAG",
+            "Level4Abilities": "Increase ATK and MAG (20%) when equipped with a gun",
+            "Level7Abilities": "Increase ATK and MAG (20%) when equipped with a gun",
+            "Level10Abilities": "(Condition: FFBE) Increase ATK and MAG (30%)",
+            "Note": "Obtainable from NV Physalis' EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "In Order to Change the World",
+                "Rain"
+            ],
+            "Acquisition": "Rain",
+            "CardURL": "https://exvius.gamepedia.com/In_Order_to_Change_the_World",
+            "ArtURL": "https://i.imgur.com/b6G25lR.png",
+            "AnimationURL": "https://i.imgur.com/ku9er2o.gif",
+            "Level1Stats": "+40 ATK",
+            "Level10Stats": "+100 ATK",
+            "Level4Abilities": "+20% HP/DEF w/ Greatsword",
+            "Level7Abilities": "+20% HP/DEF w/ Greatsword",
+            "Level10Abilities": "+20% HP/DEF (Condition: Male Only)",
+            "Note": "Obtainable from NV Rain's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "A Vengeful Blow",
+                "RainLass"
+            ],
+            "Acquisition": "Pool",
+            "CardURL": "https://exvius.gamepedia.com/A_Vengeful_Blow",
+            "ArtURL": "https://i.imgur.com/xo5OOyx.png",
+            "AnimationURL": "https://i.imgur.com/AuRWTqt.gif",
+            "Level1Stats": "+45 ATK",
+            "Level10Stats": "+60 ATK",
+            "Level4Abilities": "",
+            "Level7Abilities": "+30% Dark Resist",
+            "Level10Abilities": "+30% ATK",
+            "Note": "Obtainable from the Summon Pool."
+        },
+        {
+            "Aliases": [
+                "Facing the Demon Tower",
+                "Riku"
+            ],
+            "Acquisition": "Limited/Riku",
+            "CardURL": "https://exvius.gamepedia.com/Facing_the_Demon_Tower",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/7/7c/VC_Art-Facing_the_Demon_Tower.png",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/1/15/VC_Animation-Facing_the_Demon_Tower.gif",
+            "Level1Stats": "+35 ATK",
+            "Level10Stats": "+110 ATK",
+            "Level4Abilities": "Increase ATK (40%) when equipped with a sword",
+            "Level7Abilities": "Increase ATK (40%) when equipped with a sword",
+            "Level10Abilities": "(Condition: KHIII) Increase ATK (20%)\nIncrease LB damage (50%)",
+            "Note": "Obtainable from NV Riku's EX+1, and EX+3."
+        },
+        {
+            "Aliases": [
+                "Scorpion Sentinel Battle",
+                "Scorpion"
+            ],
+            "Acquisition": "Pool",
+            "CardURL": "https://exvius.gamepedia.com/Scorpion_Sentinel_Battle",
+            "ArtURL": "https://i.imgur.com/WSOqxRN.png",
+            "AnimationURL": "https://i.imgur.com/1BOj1LZ.gif",
+            "Level1Stats": "+20 DEF",
+            "Level10Stats": "+60 DEF",
+            "Level4Abilities": "Start of Battle/Revived\nSelf Grant a 4000 HP shield for 5 turns",
+            "Level7Abilities": "Start of Battle/Revived\nSelf Restore 25000 HP split over 5 turns",
+            "Level10Abilities": "+20% DEF",
+            "Note": "Obtainable from the Summon Pool. (Abilities are actually level 1, level 4, and level 10)"
+        },
+        {
+            "Aliases": [
+                "The Heartless Sage",
+                "Sol",
+                "Roy's Waifu",
+                "Roys Waifu"
+            ],
+            "Acquisition": "Sol",
+            "CardURL": "https://exvius.gamepedia.com/The_Heartless_Sage",
+            "ArtURL": "https://i.imgur.com/OkK8ZHq.png",
+            "AnimationURL": "https://i.imgur.com/GatOCQD.gif",
+            "Level1Stats": "+40 MAG",
+            "Level10Stats": "+100 MAG",
+            "Level4Abilities": "+50% MAG w/ Rod",
+            "Level7Abilities": "+50% MAG w/ Rod",
+            "Level10Abilities": "+30% MAG (FFBE Only)",
+            "Note": "Obtainable from NV Sol's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "The Keyblade Graveyard Battle",
+                "Sora"
+            ],
+            "Acquisition": "Limited/Sora",
+            "CardURL": "https://exvius.gamepedia.com/The_Keyblade_Graveyard_Battle",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/5/5a/VC_Art-The_Keyblade_Graveyard_Battle.png",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/f/fc/VC_Animation-The_Keyblade_Graveyard_Battle.gif",
+            "Level1Stats": "+50 ATK",
+            "Level10Stats": "+100 ATK",
+            "Level4Abilities": "Increase ATK (30%)",
+            "Level7Abilities": "Increase ATK (30%)",
+            "Level10Abilities": "(Condition: KHIII) Increase ATK/DEF/MAG/SPR (20%)\nIncrease fire, ice, lightning, water, wind, earth, light resistance (10%)\n",
+            "Note": "Obtainable from NV Sora's EX+1, and EX+3."
+        },
+        {
+            "Aliases": [
+                "Virtual Training",
+                "Yoshikiri",
+                "Yoshimitsu",
+                "Yoshi",
+                "Auron"
+            ],
+            "Acquisition": "Yoshikiri",
+            "CardURL": "https://exvius.gamepedia.com/Virtual_Training",
+            "ArtURL": "https://cdn.discordapp.com/attachments/643156739276931113/756026402171650118/vc_vignette_icon_s_401000101.png",
+            "AnimationURL": "https://cdn.discordapp.com/attachments/592802691340697611/756139711407456376/VC_Animation-Virtual_Training.gif",
+            "Level1Stats": "+50 SPR",
+            "Level10Stats": "+100 SPR",
+            "Level4Abilities": "Increase SPR (20%)",
+            "Level7Abilities": "Nullify poison, blind, sleep, silence, paralysis, confusion, disease, and stone",
+            "Level10Abilities": "Boost equipment SPR (25%) when a single weapon is equipped in both hands",
+            "Note": "Obtainable from the Yoshikiri's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Search for the Esper",
+                "Terra",
+                "NV Terra"
+            ],
+            "Acquisition": "Terra",
+            "CardURL": "https://exvius.fandom.com/wiki/Search_for_the_Esper",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/6/66/VC_Art-Search_for_the_Esper.png/revision/latest/scale-to-width-down/192?cb=20201208074804",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/1/19/VC_Animation-Search_for_the_Esper.gif",
+            "Level1Stats": "+50 MAG",
+            "Level10Stats": "+100 MAG",
+            "Level4Abilities": "Increase MAG (50%) when equipped with a sword",
+            "Level7Abilities": "Increase MAG (50%) when equipped with a sword",
+            "Level10Abilities": "(Condition: FFVI Unit) Increase MAG (20%)Increase evoke damage (30%)",
+            "Note": "Obtainable from the Yoshikiri's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Separation and Restoration",
+                "Locke"
+            ],
+            "Acquisition": "Locke",
+            "CardURL": "https://exvius.fandom.com/wiki/Separation_and_Restoration",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/c/c4/VC_Art-Separation_and_Restoration.png/revision/latest/scale-to-width-down/192?cb=20201215081933",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/c/c2/VC_Animation-Separation_and_Restoration.gif",
+            "Level1Stats": "+50 ATK",
+            "Level10Stats": "+100 ATK",
+            "Level4Abilities": "Increase ATK (50%) when equipped with a throwing weapon",
+            "Level7Abilities": "Increase ATK (50%) when equipped with a throwing weapon",
+            "Level10Abilities": "(Condition: FFVI Unit) Increase physical evasion (20%)",
+            "Note": "Obtainable from the Yoshikiri's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Sharp Student",
+                "Eldryn"
+            ],
+            "Acquisition": "Eldryn",
+            "CardURL": "https://exvius.fandom.com/wiki/Sharp_Student",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/7/79/VC_Art-Sharp_Student.png/revision/latest/scale-to-width-down/192?cb=20201225035938",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/2/2f/VC_Animation-Sharp_Student.gif",
+            "Level1Stats": "+25 ATK +10 DEF +25 MAG +10 SPR",
+            "Level10Stats": "+50 ATK +25 DEF +50 MAG 25 SPR",
+            "Level4Abilities": "Increase physical and magic damage against beasts (25%)",
+            "Level7Abilities": "Increase ice resistance (30%) \n Increase ice resistance (45%) when equipped with a sword",
+            "Level10Abilities": "(Condition: Male Unit) Chance to ignore fatal damage (100%) when HP is above 10% (max 1 time)",
+            "Note": "Obtainable from the Eldryn's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "The Heir to Purple Lightning",
+                "Lasswell",
+                "Lassworm"
+            ],
+            "Acquisition": "Lasswell",
+            "CardURL": "https://exvius.fandom.com/wiki/The_Heir_to_Purple_Lightning",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/2/28/VC_Art-The_Heir_to_Purple_Lightning.png/revision/latest/scale-to-width-down/192?cb=20210112095448",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/2/28/VC_Animation-The_Heir_to_Purple_Lightning.gif",
+            "Level1Stats": "+40 ATK +40 MAG",
+            "Level10Stats": "+65 ATK +65 MAG",
+            "Level4Abilities": "Increase ATK/MAG (20%) when equipped with clothes",
+            "Level7Abilities": "Increase ATK/MAG (20%) when equipped with clothes",
+            "Level10Abilities": "(Condition: Male Unit) Increase physical and magic damage against insects (50%)",
+            "Note": "Obtainable from the Lasswell's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Thanks for Everything!",
+                "Raina",
+                "Rain & Fina"
+            ],
+            "Acquisition": "Rain & Fina",
+            "CardURL": "https://exvius.fandom.com/wiki/Thanks_for_Everything!",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/4/42/VC_Art-Thanks_for_Everything%21.png/revision/latest/scale-to-width-down/192?cb=20210122023855",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/7/7e/VC_Animation-Thanks_for_Everything%21.gif",
+            "Level1Stats": "+45 ATK +45 MAG",
+            "Level10Stats": "+80 ATK +80 MAG",
+            "Level4Abilities": "Increase ATK (40%) when equipped with a great sword \n Increase MAG (40%) when equipped with a bow",
+            "Level7Abilities": "Increase ATK (40%) when equipped with a great sword \n Increase MAG (40%) when equipped with a bow",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase fire and light resistance (30%)",
+            "Note": "Obtainable from the Rain & Fina's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Festive Preparations - Team Lasswell",
+                "Lassgen",
+                "Lasswell & Raegen"
+            ],
+            "Acquisition": "Lasswell & Raegen",
+            "CardURL": "https://exvius.fandom.com/wiki/Festive_Preparations_-_Team_Lasswell",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/d/dd/VC_Art-Festive_Preparations_-_Team_Lasswell.png/revision/latest/scale-to-width-down/192?cb=20210128100140",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/6/6e/VC_Animation-Festive_Preparations_-_Team_Lasswell.gif",
+            "Level1Stats": "+100 HP +40 ATK",
+            "Level10Stats": "+200 HP +90 ATK",
+            "Level4Abilities": "Increase equipment ATK (25%) when dual wielding",
+            "Level7Abilities": "Increase equipment ATK (25%) when dual wielding",
+            "Level10Abilities": "Increase HP (20%)",
+            "Note": "Obtainable from the Lasswell & Raegen's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Festive Preparations - Team Sages",
+                "Solfina",
+                "Fina & Sol"
+            ],
+            "Acquisition": "Dark Fina & Sol",
+            "CardURL": "https://exvius.fandom.com/wiki/Festive_Preparations_-_Team_Sages",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/5/5a/VC_Art-Festive_Preparations_-_Team_Sages.png/revision/latest/scale-to-width-down/192?cb=20210202101542",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/2/24/VC_Animation-Festive_Preparations_-_Team_Sages.gif",
+            "Level1Stats": "+100 HP +40 MAG",
+            "Level10Stats": "+200 HP +90 MAG",
+            "Level4Abilities": "Increase MAG (25%) when equipped with a rod \n Increase MAG (25%) when equipped with a robe",
+            "Level7Abilities": "Increase MAG (25%) when equipped with a rod \n Increase MAG (25%) when equipped with a robe",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase fire, earth and dark resistance (30%))",
+            "Note": "Obtainable from the Dark Fina & Sol's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Delicate Lotus",
+                "Shui Yu",
+                "Fish Lady"
+            ],
+            "Acquisition": "Shui Yu",
+            "CardURL": "https://exvius.fandom.com/wiki/Delicate_Lotus",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/6/66/VC_Art-Delicate_Lotus.png/revision/latest/scale-to-width-down/192?cb=20210210122048",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/d/d9/VC_Animation-Delicate_Lotus.gif",
+            "Level1Stats": "+50 MAG +50 SPR",
+            "Level10Stats": "+75 MAG +75 SPR",
+            "Level4Abilities": "Increase MAG/SPR (25%) when equipped with a rod",
+            "Level7Abilities": "Increase MAG/SPR (25%) when equipped with a rod",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase resistance to all elements (20%)",
+            "Note": "Obtainable from the Shui Yu's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Festive Preparations - Team Akstar",
+                "Cleostar",
+                "Akstar & Cleome"
+            ],
+            "Acquisition": "Akstar & Cleome",
+            "CardURL": "https://exvius.fandom.com/wiki/Festive_Preparations_-_Team_Akstar",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/5/5d/VC_Art-Festive_Preparations_-_Team_Akstar.png/revision/latest/scale-to-width-down/192?cb=20210217110657",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/e/ef/VC_Animation-Festive_Preparations_-_Team_Akstar.gif",
+            "Level1Stats": "+40 MAG",
+            "Level10Stats": "+90 MAG",
+            "Level4Abilities": "Increase ATK (40%) when equipped with a katana",
+            "Level7Abilities": "Increase ATK (40%) when equipped with a katana",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase equipment ATK (50%) and accuracy (25%) when when single wielding any weapon",
+            "Note": "Obtainable from the Akstar & Cleome's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "The Savior's Descent",
+                "Lightning",
+                "SOS Lightning"
+            ],
+            "Acquisition": "Lightning",
+            "CardURL": "https://exvius.fandom.com/wiki/The_Savior%27s_Descent",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/5/50/VC_Art-The_Savior%27s_Descent.png/revision/latest/scale-to-width-down/192?cb=20210225041734",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/7/77/VC_Animation-The_Savior%27s_Descent.gif",
+            "Level1Stats": "+40 ATK +40 MAG",
+            "Level10Stats": "+80 ATK +80 MAG",
+            "Level4Abilities": "Increase ATK/MAG (50%) when equipped with a light shield \n Increase ATK/MAG (50%) when equipped with a heavy shield",
+            "Level7Abilities": "Increase ATK/MAG (50%) when equipped with a light shield \n Increase ATK/MAG (50%) when equipped with a heavy shield",
+            "Level10Abilities": "(Condition: FFXIII, FFXIII-2, LR FFXIII Unit) Increase equipment ATK/MAG (50%) when single wielding any weapon with or without shield",
+            "Note": "Obtainable from the Lightning's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Friends from Today!",
+                "Mazurka"
+            ],
+            "Acquisition": "Mazurka",
+            "CardURL": "https://exvius.fandom.com/wiki/Friends_from_Today!",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/d/d7/VC_Art-Friends_from_Today%21.png/revision/latest/scale-to-width-down/192?cb=20210304040844",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/f/f4/VC_Animation-Friends_from_Today%21.gif",
+            "Level1Stats": "+40 MAG",
+            "Level10Stats": "+100 ATK",
+            "Level4Abilities": "Increase ATK (50%) when equipped with a spear",
+            "Level7Abilities": "Increase ATK (50%) when equipped with a spear",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase ATK (30%)",
+            "Note": "Obtainable from the Mazurka's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Five Hundred Years of Grief",
+                "Snow",
+                "Mega Simp NRG"
+            ],
+            "Acquisition": "Snow",
+            "CardURL": "https://exvius.fandom.com/wiki/Five_Hundred_Years_of_Grief",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/4/4e/VC_Art-Five_Hundred_Years_of_Grief.png/revision/latest/scale-to-width-down/192?cb=20210309112422",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/e/e4/VC_Animation-Five_Hundred_Years_of_Grief.gif",
+            "Level1Stats": "+500 HP +30 DEF +30 SPR",
+            "Level10Stats": "+1000 HP +60 DEF +60 SPR",
+            "Level4Abilities": "Increase HP (20%) when equipped with an axe \n Increase HP (20%) when equipped with a fist",
+            "Level7Abilities": "Increase HP (20%) when equipped with an axe \n Increase HP (20%) when equipped with a fist",
+            "Level10Abilities": "(Condition: Male Unit) Increase equipment DEF/SPR (50%) when single wielding an axe or fist with or without shield",
+            "Note": "Obtainable from the Snow's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Syldra! Come Up and Say Hello!",
+                "Faris"
+            ],
+            "Acquisition": "Faris",
+            "CardURL": "https://exvius.fandom.com/wiki/By_Lord_Dario%27s_Side",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/7/7e/VC_Art-Syldra%21_Come_Up_and_Say_Hello%21.png/revision/latest/scale-to-width-down/192?cb=20210318022656",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/5/5e/VC_Animation-Syldra%21_Come_Up_and_Say_Hello%21.gif",
+            "Level1Stats": "+35 ATK +50 MAG",
+            "Level10Stats": "+65 ATK +90 MAG",
+            "Level4Abilities": "Increase ATK/MAG (30%) when equipped with a sword",
+            "Level7Abilities": "Increase ATK/MAG (30%) when equipped with a sword",
+            "Level10Abilities": "(Condition: Female Unit) Increase ATK/MAG (20%) \n Increase evoke damage (30%)",
+            "Note": "Obtainable from the Faris's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "By Lord Dario's Side",
+                "Vinera"
+            ],
+            "Acquisition": "Vinera",
+            "CardURL": "https://exvius.fandom.com/wiki/By_Lord_Dario%27s_Side",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/b/b4/VC_Art-By_Lord_Dario%27s_Side.png/revision/latest/scale-to-width-down/192?cb=20210327043201",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/4/4f/VC_Animation-By_Lord_Dario%27s_Side.gif",
+            "Level1Stats": "+50 ATK",
+            "Level10Stats": "+110 ATK",
+            "Level4Abilities": "Increase ATK (50%) when equipped with a dagger",
+            "Level7Abilities": "Increase ATK (50%) when equipped with a dagger",
+            "Level10Abilities": "(Condition: WOTV FFBE Unit) Increase physical damage against humans (50%)",
+            "Note": "Obtainable from the Vinera's EX+1, and EX+3."
+        },
+        {
+            "Aliases": [
+                "Egg Painting",
+                "Melia"
+            ],
+            "Acquisition": "Melia",
+            "CardURL": "https://exvius.fandom.com/wiki/Egg_Painting",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/d/db/VC_Art-Egg_Painting.png/revision/latest/scale-to-width-down/192?cb=20210401130331",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/d/d7/VC_Animation-Egg_Painting.gif",
+            "Level1Stats": "+500 HP +40 SPR",
+            "Level10Stats": "+1000 HP +70 SPR",
+            "Level4Abilities": "Increase HP (10%)",
+            "Level7Abilities": "Increase HP (10%)",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase equipment SPR (25%) when dual wielding",
+            "Note": "Obtainable from the Melia's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Face My Full Power!",
+                "Melo"
+            ],
+            "Acquisition": "Melo",
+            "CardURL": "https://exvius.fandom.com/wiki/Face_My_Full_Power",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/4/4e/VC_Art-Face_My_Full_Power%21.png/revision/latest/scale-to-width-down/192?cb=20210406121147",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/a/a7/VC_Animation-Face_My_Full_Power%21.gif",
+            "Level1Stats": "+40 MAG",
+            "Level10Stats": "+100 MAG",
+            "Level4Abilities": "Increase MAG (40%) when equipped with a rod",
+            "Level7Abilities": "Increase MAG (40%) when equipped with a rod",
+            "Level10Abilities": "(Condition: FFBE Unit) Auto-cast [VC] Can You Carry Me? at the start of a battle or after being revived",
+            "Note": "Obtainable from the Melo's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "The Cure for Insomnia",
+                "Noctis",
+                "Boy Band Leader"
+            ],
+            "Acquisition": "Noctis",
+            "CardURL": "https://exvius.fandom.com/wiki/The_Cure_for_Insomnia",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/e/e1/VC_Art-The_Cure_for_Insomnia.png/revision/latest/scale-to-width-down/192?cb=20210415053604",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/d/d6/VC_Animation-The_Cure_for_Insomnia.gif",
+            "Level1Stats": "+60 ATK",
+            "Level10Stats": "+110 ATK",
+            "Level4Abilities": "Increase ATK (40%) when equipped with a sword",
+            "Level7Abilities": "Increase ATK (40%) when equipped with a sword",
+            "Level10Abilities": "(Condition: FFXV Unit) Increase dark resistance (50%) \n Increase jump damage (50%)",
+            "Note": "Obtainable from the Noctis's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "A King's Dominion",
+                "King Behemy",
+                "Behemy"
+            ],
+            "Acquisition": "Behemy",
+            "CardURL": "https://exvius.fandom.com/wiki/A_King%27s_Dominion",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/6/65/VC_Art-A_King%27s_Dominion.png/revision/latest/scale-to-width-down/192?cb=20210422130456",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/2/2a/VC_Animation-A_King%27s_Dominion.gif",
+            "Level1Stats": "+600 HP +20 DEF",
+            "Level10Stats": "+1100 HP +60 DEF",
+            "Level4Abilities": "Increase physical evasion (20%)",
+            "Level7Abilities": "Increase HP (30%)",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase DEF (50%) when equipped with a great sword",
+            "Note": "Obtainable from the Behemy's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Duty as the Oracle",
+                "Lunafreya",
+                "Important FFXV Character"
+            ],
+            "Acquisition": "Lunafreya",
+            "CardURL": "https://exvius.fandom.com/wiki/Duty_as_the_Oracle",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/b/bd/VC_Art-Duty_as_the_Oracle.png/revision/latest/scale-to-width-down/192?cb=20210427120642",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/7/79/VC_Animation-Duty_as_the_Oracle.gif",
+            "Level1Stats": "+50 MAG",
+            "Level10Stats": "+100 MAG",
+            "Level4Abilities": "Increase MAG (30%)",
+            "Level7Abilities": "Increase MAG (30%)",
+            "Level10Abilities": "(Condition: Female Unit) Increase EVO MAG (30%)",
+            "Note": "Obtainable from the Lunafreya's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Onward to the Disc",
+                "Ardyn",
+                "Purple Man",
+                "Some Really Old Guy"
+            ],
+            "Acquisition": "Ardyn",
+            "CardURL": "https://exvius.fandom.com/wiki/Onward_to_the_Disc",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/5/56/VC_Art-Onward_to_the_Disc.png/revision/latest/scale-to-width-down/192?cb=20210504081814",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/4/46/VC_Animation-Onward_to_the_Disc.gif",
+            "Level1Stats": "+60 ATK",
+            "Level10Stats": "+110 ATK",
+            "Level4Abilities": "Increase ATK (40%) when equipped with a sword",
+            "Level7Abilities": "Increase ATK (40%) when equipped with a sword",
+            "Level10Abilities": "(Condition: FFXV Unit) Increase light resistance (50%) \n Increase jump damage (50%)",
+            "Note": "Obtainable from the Ardyn's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "The Portal of Truth",
+                "Edward & Alphonse",
+                "Elrics",
+                "Elric",
+                "Edward",
+                "Alphonse"
+            ],
+            "Acquisition": "Edward & Alphonse",
+            "CardURL": "https://exvius.fandom.com/wiki/The_Portal_of_Truth",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/d/d2/VC_Art-The_Portal_of_Truth.png/revision/latest/scale-to-width-down/192?cb=20210510082546",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/1/1f/VC_Animation-The_Portal_of_Truth.gif",
+            "Level1Stats": "+50 ATK",
+            "Level10Stats": "+100 ATK",
+            "Level4Abilities": "Increase ATK (30%)",
+            "Level7Abilities": "Increase ATK (30%)",
+            "Level10Abilities": "(Condition: FMA Unit) Increase LB damage (50%)",
+            "Note": "Obtainable from the Edward & Alphonse's EX+1, and EX+3."
+        },
+        {
+            "Aliases": [
+                "Swords of Fury",
+                "Zidane",
+                "Vivi"
+            ],
+            "Acquisition": "Zidane \n Vivi",
+            "CardURL": "https://exvius.fandom.com/wiki/Swords_of_Fury",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/3/30/VC_Art-Swords_of_Fury.png/revision/latest/scale-to-width-down/192?cb=20210519114809",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/8/86/VC_Animation-Swords_of_Fury.gif",
+            "Level1Stats": "+40 ATK",
+            "Level10Stats": "+110 ATK",
+            "Level4Abilities": "Increase ATK (40%) when equipped with a dagger",
+            "Level7Abilities": "Increase ATK (40%) when equipped with a dagger",
+            "Level10Abilities": "(Condition: FFIX Unit) Increase LB damage (50%)",
+            "Note": "Obtainable from the Zidane's & Vivi's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "A Family Reunited",
+                "Kaktiria"
+            ],
+            "Acquisition": "Kaktria",
+            "CardURL": "https://exvius.fandom.com/wiki/A_Family_Reunited",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/2/26/VC_Art-A_Family_Reunited.png/revision/latest/scale-to-width-down/192?cb=20210529042324",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/f/f6/VC_Animation-A_Family_Reunited.gif",
+            "Level1Stats": "+40 MAG",
+            "Level10Stats": "+110 MAG",
+            "Level4Abilities": "Increase MAG (30%) when equipped with a fist",
+            "Level7Abilities": "Increase MAG (30%) when equipped with a fist",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase MAG (50%)",
+            "Note": "Obtainable from the Kaktria's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "The One I've Loved...",
+                "Diverti",
+                "Chorale"
+            ],
+            "Acquisition": "Chorale \n Diverti",
+            "CardURL": "https://exvius.fandom.com/wiki/The_One_I%27ve_Loved...",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/2/2f/VC_Art-The_One_I%27ve_Loved....png/revision/latest/scale-to-width-down/192?cb=20210608093718",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/c/c2/VC_Animation-The_One_I%27ve_Loved....gif",
+            "Level1Stats": "+35 ATK",
+            "Level10Stats": "+110 ATK",
+            "Level4Abilities": "Increase ATK (40%) when equipped with a whip",
+            "Level7Abilities": "Increase ATK (40%) when equipped with a whip",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase ATK (20%) \n Increase LB damage (50%)",
+            "Note": "Obtainable from the Chorale's & Diverti's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Even Heroes Need a Break",
+                "Noppy",
+                "Moogle"
+            ],
+            "Acquisition": "Noppy",
+            "CardURL": "https://exvius.fandom.com/wiki/Even_Heroes_Need_a_Break",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/d/de/VC_Art-Even_Heroes_Need_a_Break.png/revision/latest/scale-to-width-down/192?cb=20210618012013",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/9/94/VC_Animation-Even_Heroes_Need_a_Break.gif",
+            "Level1Stats": "+40 ATK",
+            "Level10Stats": "+100 ATK",
+            "Level4Abilities": "Increase ATK (50%) when equipped with a great sword",
+            "Level7Abilities": "Increase ATK (50%) when equipped with a great sword",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase equipment ATK (50%) when single wielding any weapon with or without shield",
+            "Note": "Obtainable from the Noppy's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Ragnarok",
+                "Aphmau"
+            ],
+            "Acquisition": "Aphmau",
+            "CardURL": "https://exvius.fandom.com/wiki/Ragnarok",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/f/f1/VC_Art-Ragnarok.png/revision/latest/scale-to-width-down/192?cb=20210622084821",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/9/9d/VC_Animation-Ragnarok.gif",
+            "Level1Stats": "+400 HP +40 DEF",
+            "Level10Stats": "+800 HP +80 DEF",
+            "Level4Abilities": "Increase DEF (20%) when equipped with a fist",
+            "Level7Abilities": "Increase DEF (20%) when equipped with a fist",
+            "Level10Abilities": "Increase equipment DEF (50%) when single wielding any weapon with or without shield",
+            "Note": "Obtainable from the Aphmau's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "A Crimson-Colored Light",
+                "Lousie",
+                "Iron-woman"
+            ],
+            "Acquisition": "Louise",
+            "CardURL": "https://exvius.fandom.com/wiki/A_Crimson-Colored_Light",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/0/0d/VC_Art-A_Crimson-Colored_Light.png/revision/latest/scale-to-width-down/192?cb=20210702094813",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/8/81/VC_Animation-A_Crimson-Colored_Light.gif",
+            "Level1Stats": "+60 MAG",
+            "Level10Stats": "+115 MAG",
+            "Level4Abilities": "Increase MAG (30%)",
+            "Level7Abilities": "Increase MAG (20%) \n Increase LB gauge (5) per turn",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase LB damage (50%)",
+            "Note": "Obtainable from the Louise's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Dramatic Costume Change",
+                "Ling",
+                "White Dragon Ling"
+            ],
+            "Acquisition": "Ling",
+            "CardURL": "https://exvius.fandom.com/wiki/Dramatic_Costume_Change",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/1/12/VC_Art-Dramatic_Costume_Change.png/revision/latest/scale-to-width-down/192?cb=20210702094656",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/7/70/VC_Animation-Dramatic_Costume_Change.gif",
+            "Level1Stats": "+50 ATK",
+            "Level10Stats": "+115 ATK",
+            "Level4Abilities": "Increase ATK (25%)",
+            "Level7Abilities": "Increase ATK (25%)",
+            "Level10Abilities": "Increase HP (40%)",
+            "Note": "Obtainable from the Ling's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "A World United ",
+                "Charlotte",
+                "Vlad",
+                "CG Saber"
+            ],
+            "Acquisition": "Charlotte \n Vlad",
+            "CardURL": "https://exvius.fandom.com/wiki/A_World_United",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/9/9c/VC_Art-A_World_United.png/revision/latest/scale-to-width-down/192?cb=20210706103249",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/8/87/VC_Animation-A_World_United.gif",
+            "Level1Stats": "+40 ATK +30 MAG",
+            "Level10Stats": "+100 ATK +80 MAG",
+            "Level4Abilities": "Increase ATK (40%) when equipped with a sword \n Increase ATK (40%) when equipped with a great sword \n Increase MAG (50%) when equipped with a rod",
+            "Level7Abilities": "Increase ATK (40%) when equipped with a sword \n Increase ATK (40%) when equipped with a great sword \n Increase MAG (50%) when equipped with a rod",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase LB damage (50%)",
+            "Note": "Obtainable from the Charlottes's & Vlad's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Memories Below the Surface",
+                "Nichol",
+                "Sea King Nichol"
+            ],
+            "Acquisition": "Nichol",
+            "CardURL": "https://exvius.fandom.com/wiki/Memories_Below_the_Surface",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/f/f0/VC_Art-Memories_Below_the_Surface.png/revision/latest/scale-to-width-down/192?cb=20210715105600",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/b/bf/VC_Animation-Memories_Below_the_Surface.gif",
+            "Level1Stats": "+400 HP +40 MAG +40 SPR",
+            "Level10Stats": "+800 HP +80 MAG +80 SPR",
+            "Level4Abilities": "Increase MP (20%)",
+            "Level7Abilities": "Increase MP (20%)",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase fire, ice, lightning and water resistance (20%)",
+            "Note": "Obtainable from the Nichol's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Showdown with the Arsenal",
+                "Cetra Aerith",
+                "CD Aerith",
+                "Actually Good Aerith",
+                "Not Terrible Aerith"
+            ],
+            "Acquisition": "Cetra Aerith",
+            "CardURL": "https://exvius.fandom.com/wiki/Showdown_with_the_Arsenal",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/4/47/VC_Art-Showdown_with_the_Arsenal.png/revision/latest/scale-to-width-down/192?cb=20210719091159",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/f/fb/VC_Animation-Showdown_with_the_Arsenal.gif",
+            "Level1Stats": "+50 MAG +100 SPR",
+            "Level10Stats": "",
+            "Level4Abilities": "Premium",
+            "Level7Abilities": "",
+            "Level10Abilities": "Increase LB damage (50%) \n Increase SPR (100%) \n (Condition: FFVII Unit) Increase MAG (100%)",
+            "Note": "Obtainable from the CD Aerith's EX+3."
+        },
+        {
+            "Aliases": [
+                "The Star of Seventh Heaven",
+                "Avanlanche Tifa",
+                "Avanlanche's Tifa",
+                "Tifa"
+            ],
+            "Acquisition": "Tifa",
+            "CardURL": "https://exvius.fandom.com/wiki/The_Star_of_Seventh_Heaven_(Vision_Card)",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/4/4f/VC_Art-The_Star_of_Seventh_Heaven.png/revision/latest/scale-to-width-down/192?cb=20210719091211",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/6/6b/VC_Animation-The_Star_of_Seventh_Heaven.gif",
+            "Level1Stats": "+125 ATK",
+            "Level10Stats": "",
+            "Level4Abilities": "Premium",
+            "Level7Abilities": "",
+            "Level10Abilities": "Increase LB damage (50%) \n Increase physical and magic damage against beasts (100%) \n (Condition: FFVII Unit) Increase static ATK (500)",
+            "Note": "Obtainable from the Tifa's EX+3."
+        },
+        {
+            "Aliases": [
+                "A Touching Reunion",
+                "Sephiroth",
+                "Legendary Hero Sephiroth",
+                "@Sinzar",
+                "Sinzar's waifu"
+            ],
+            "Acquisition": "Sephiroth",
+            "CardURL": "https://exvius.fandom.com/wiki/A_Touching_Reunion",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/a/a4/VC_Art-A_Touching_Reunion.png/revision/latest/scale-to-width-down/192?cb=20210805042425",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/9/99/VC_Animation-A_Touching_Reunion.gif",
+            "Level1Stats": "+125 ATK",
+            "Level10Stats": "",
+            "Level4Abilities": "Premium",
+            "Level7Abilities": "",
+            "Level10Abilities": "Increase LB damage (50%) \n Increase physical and magic damage against undeads (100%) \n (Condition: FFVII Unit) Increase static ATK (500)",
+            "Note": "Obtainable from the Sephiroth's EX+3."
+        },
+        {
+            "Aliases": [
+                "Flighted Friends",
+                "Skye"
+            ],
+            "Acquisition": "Skye",
+            "CardURL": "https://exvius.fandom.com/wiki/Flighted_Friends",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/f/f9/VC_Art-Flighted_Friends.png/revision/latest/scale-to-width-down/192?cb=20210816061159",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/a/a2/VC_Animation-Flighted_Friends.gif",
+            "Level1Stats": "+60 ATK",
+            "Level10Stats": "+110 ATK",
+            "Level4Abilities": "Increase ATK (30%)",
+            "Level7Abilities": "Increase ATK (30%)",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase jump damage (100%))",
+            "Note": "Obtainable from the Skye's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "A Love for All Time",
+                "Celes"
+            ],
+            "Acquisition": "Celes",
+            "CardURL": "https://exvius.fandom.com/wiki/A_Love_for_All_Time",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/c/ce/VC_Art-A_Love_for_All_Time.png/revision/latest/scale-to-width-down/192?cb=20210820124622",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/f/f7/VC_Animation-A_Love_for_All_Time.gif",
+            "Level1Stats": "+50 ATK +50 MAG",
+            "Level10Stats": "+100 ATK +100 MAG",
+            "Level4Abilities": "Increase LB damage (25%)",
+            "Level7Abilities": "Increase ATK/MAG (50%)",
+            "Level10Abilities": "(Condition: FFVI Unit) Increase static ATK/DEF/MAG/SPR (300)",
+            "Note": "Obtainable from the Cele's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Toil and Trouble",
+                "Ygni"
+            ],
+            "Acquisition": "Ygni",
+            "CardURL": "https://exvius.fandom.com/wiki/Toil_and_Trouble",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/2/28/VC_Art-Toil_and_Trouble.png/revision/latest/scale-to-width-down/192?cb=20210902050557",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/a/ae/VC_Animation-Toil_and_Trouble.gif",
+            "Level1Stats": "+40 MAG",
+            "Level10Stats": "+110 MAG",
+            "Level4Abilities": "Increase MAG (40%) when equipped with a dagger",
+            "Level7Abilities": "Increase MAG (40%) when equipped with a dagger",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase physical and magic damage against fairies (50%)",
+            "Note": "Obtainable from the Ygni's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Ruin to Remedy",
+                "Cressnik"
+            ],
+            "Acquisition": "Cressnik",
+            "CardURL": "https://exvius.fandom.com/wiki/Ruin_to_Remedy",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/2/29/VC_Art-Ruin_to_Remedy.png/revision/latest/scale-to-width-down/192?cb=20210909144745",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/a/a7/VC_Animation-Ruin_to_Remedy.gif/revision/latest/scale-to-width-down/153?cb=20210909145458",
+            "Level1Stats": "+40 MAG",
+            "Level10Stats": "+110 MAG",
+            "Level4Abilities": "Increase equipment SPR (25%) when single wielding with or without shield",
+            "Level7Abilities": "Increase equipment SPR (25%) when single wielding with or without shield",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase equipment SPR (50%) when single wielding with or without shield",
+            "Note": "Obtainable from the Cressnik's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "The Most Merry of Melodies",
+                "Bulwark",
+                "Mascot"
+            ],
+            "Acquisition": "Bulwark",
+            "CardURL": "https://exvius.fandom.com/wiki/The_Most_Merry_of_Melodies",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/a/ad/VC_Art-The_Most_Merry_of_Melodies.png/revision/latest/scale-to-width-down/192?cb=20210909144813",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/5/55/VC_Animation-The_Most_Merry_of_Melodies.gif/revision/latest/scale-to-width-down/175?cb=20210909150212",
+            "Level1Stats": "+50 DEF +50 SPR",
+            "Level10Stats": "+90 DEF +90 SPR",
+            "Level4Abilities": "Increase DEF/SPR (40%) when equipped with a instrument",
+            "Level7Abilities": "Increase DEF/SPR  (40%) when equipped with a instrument",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase equipment SPR (50%) when single wielding with or without shield",
+            "Note": "Obtainable from the Bulwark's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "Duo in Disguise",
+                "Sage of Thunder Sakura",
+                "Sakura",
+                "Ramuh Sakura"
+            ],
+            "Acquisition": "Sakura",
+            "CardURL": "https://exvius.fandom.com/wiki/Duo_in_Disguise",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/b/bd/VC_Art-Duo_in_Disguise.png/revision/latest/scale-to-width-down/192?cb=20210908114955",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/a/a8/VC_Animation-Duo_in_Disguise.gif",
+            "Level1Stats": "+400 HP +40 SPR +40 SPR",
+            "Level10Stats": "+800 HP +80 SPR +80 SPR",
+            "Level4Abilities": "Increase MP (20%)",
+            "Level7Abilities": "Increase MP (20%)",
+            "Level10Abilities": "(Condition: FFBE Unit) Increase lightning, water, light and dark resistance (20%)",
+            "Note": "Obtainable from the Sakura's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "A Dino-Mite Battle",
+                "Lara Croft",
+                "Lara",
+                "Croft"
+            ],
+            "Acquisition": "Lara",
+            "CardURL": "https://exvius.fandom.com/wiki/A_Dino-Mite_Battle",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/2/20/VC_Art-A_Dino-Mite_Battle.png/revision/latest/scale-to-width-down/192?cb=20211006161048",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/c/c3/VC_Animation-A_Dyno-Mite_Battle.gif",
+            "Level1Stats": "+75 ATK",
+            "Level10Stats": "+125 ATK",
+            "Level4Abilities": "Increase ATK (50%)",
+            "Level7Abilities": "Increase resistance to all status ailments (100%) \n Increase LB gauge (5) per turn",
+            "Level10Abilities": "(Condition: TOMB RAIDER Unit) Increase static ATK (500)",
+            "Note": "Obtainable from the Lara's EX+1, EX+3 and also from the Perma VC Select Shop."
+        },
+        {
+            "Aliases": [
+                "La Vida Roca",
+                "Roca",
+                "Paus"
+            ],
+            "Acquisition": "Roca",
+            "CardURL": "https://exvius.fandom.com/wiki/La_Vida_Roca",
+            "ArtURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/b/b9/VC_Art-La_Vida_Roca.png/revision/latest/scale-to-width-down/192?cb=20210908120502",
+            "AnimationURL": "https://static.wikia.nocookie.net/exvius_gamepedia_en/images/b/ba/VC_Animation-La_Vida_Roca.gif",
+            "Level1Stats": "+25 ATK +25 DEF +25 MAG +25 SPR",
+            "Level10Stats": "+50 ATK +50 DEF +50 MAG +50 SPR",
+            "Level4Abilities": "Recover MP (5%) per turn",
+            "Level7Abilities": "Recover MP (5%) per turn",
+            "Level10Abilities": "Recover MP (8%) per turn",
+            "Note": "Obtainable from the Roca's or Paus's EX+1, EX+3 and also from the Perma VC Select Shop."
+        }
+    ]
+}

@@ -25,9 +25,11 @@ client.on('messageCreate', msg => {
     let prefix = '$';
     if (msg.author.bot) return;
 
-    // Joke command. Only allowed on certain servers.
-    if(msg.content === 'pls respond') {
-        msg.reply('pls respond');
+    // Joke commands. Only allowed on certain servers.
+    if (msg.guildId === '643138753891663882') {
+        if(msg.content === 'pls respond') {
+            msg.reply('pls respond');
+        }
     }
 
     if (!msg.content.startsWith(config.prefix)) return;
