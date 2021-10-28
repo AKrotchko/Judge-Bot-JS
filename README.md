@@ -29,3 +29,14 @@ To run the bot from the project root, run
 
 
 [1]: https://discord.com/developers/docs/intro
+
+
+## Current Commands
+
+#### VC (Global, Slash)
+
+Allows a user to search for a vision card by alias based on the visionCards.json file. Currently only accepts perfect matches to aliases. Formats the data, and responds with an embed that contains the information requested. Also provides wiki links and images for said vision card.
+
+#### NV (Global, Slash)
+
+Allows a user to search for a neo vision unit (NV awakening, or NV base) based on the neoVisions.json file. Accepts perfect or partial matches to aliases. Formats data, and responds with an embed that contains the information requested. 
