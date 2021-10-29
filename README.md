@@ -3,6 +3,14 @@
 
  Judge Bot is the pet project of Roy from the FFBE Discord server. It has had a lot of growing pains throughout the years, and the project is finally transitioning to javascript because dart is annoying as fuck to use for a command-line application. Who would've thought. Anyway, I'll be updating the bot piece-by-piece here, and I'll try to chronicle the change made as time goes on.
 
+# Running the bot
+
+Before running the bot, you will need to install all of the packages. To do this, simply run 
+
+`npm install`
+
+From the project root. This will install all required packages needed to run the bot. Once you've done this, you can follow the steps below in order to get the bot set up and running on your local.
+
 ## Step 1. Setting up your config.json
 You will need to set up all of the variables that belong in the config.json. Client ID and token are required for the application to run. For help finding this info, check the [Discord Developer Portal][1]
 
@@ -31,7 +39,7 @@ To run the bot from the project root, run
 [1]: https://discord.com/developers/docs/intro
 
 
-## Current Commands
+# Current Commands
 
 #### VC (Global, Slash)
 
